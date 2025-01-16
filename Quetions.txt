@@ -1,0 +1,12 @@
+"What skills do I need to transition into a career in data science?"
+
+"Can you suggest the best career options for someone with a degree in mechanical engineering?"
+
+"What are the job opportunities available in the field of artificial intelligence?"
+
+"How can I improve my resume to apply for top tech companies?"
+
+"What certifications are valuable for a career in digital marketing?"
+
+genai.configure(api_key='AIzaSyAwJCbQgLvODfQphn9XK7REPyVHp5eZYaI')
+
